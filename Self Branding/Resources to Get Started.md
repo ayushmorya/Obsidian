@@ -1,0 +1,13 @@
+- **Free Learning Platforms**:
+    - AWS Skill Builder (free courses).
+    - Microsoft Learn (Azure basics).
+    - Docker’s official docs (docker.com).
+    - Terraform Learn (learn.hashicorp.com).
+- **Communities**:
+    - r/devops on Reddit.
+    - DevOps Chat on Slack (free to join).
+    - LinkedIn DevOps groups.
+- **Free Tools**:
+    - GitHub (version control).
+    - VS Code (code editor).
+    - Trello (project management).
